@@ -1,2 +1,3 @@
 # hello-world2
-Just another repository
+
+Hello, I like to walk my dog and read novels.
